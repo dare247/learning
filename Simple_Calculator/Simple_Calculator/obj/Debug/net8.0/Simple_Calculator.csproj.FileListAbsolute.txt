@@ -1,0 +1,14 @@
+C:\Users\damilare.oloruntobi\source\repos\Simple_Calculator\Simple_Calculator\bin\Debug\net8.0\Simple_Calculator.exe
+C:\Users\damilare.oloruntobi\source\repos\Simple_Calculator\Simple_Calculator\bin\Debug\net8.0\Simple_Calculator.deps.json
+C:\Users\damilare.oloruntobi\source\repos\Simple_Calculator\Simple_Calculator\bin\Debug\net8.0\Simple_Calculator.runtimeconfig.json
+C:\Users\damilare.oloruntobi\source\repos\Simple_Calculator\Simple_Calculator\bin\Debug\net8.0\Simple_Calculator.dll
+C:\Users\damilare.oloruntobi\source\repos\Simple_Calculator\Simple_Calculator\bin\Debug\net8.0\Simple_Calculator.pdb
+C:\Users\damilare.oloruntobi\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\net8.0\Simple_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damilare.oloruntobi\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\net8.0\Simple_Calculator.AssemblyInfoInputs.cache
+C:\Users\damilare.oloruntobi\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\net8.0\Simple_Calculator.AssemblyInfo.cs
+C:\Users\damilare.oloruntobi\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\net8.0\Simple_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\damilare.oloruntobi\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\net8.0\Simple_Calculator.dll
+C:\Users\damilare.oloruntobi\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\net8.0\refint\Simple_Calculator.dll
+C:\Users\damilare.oloruntobi\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\net8.0\Simple_Calculator.pdb
+C:\Users\damilare.oloruntobi\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\net8.0\Simple_Calculator.genruntimeconfig.cache
+C:\Users\damilare.oloruntobi\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\net8.0\ref\Simple_Calculator.dll
